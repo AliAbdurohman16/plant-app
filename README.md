@@ -1,4 +1,4 @@
-# first_app_flutter
+# plant app flutter
 
 A new Flutter project.
 
